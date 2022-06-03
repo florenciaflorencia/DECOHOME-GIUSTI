@@ -19,13 +19,6 @@ nav ul li{
         font-weight: 700;
          }
         
-nav{
-    display: flex;
-    flex-wrap: nowrap;
-    justify-content: flex-end;
-    align-items: center;
-    grid-area: nav;
-}
  h3{
       text-align: left;
       font-family: 'Montserrat', sans-serif;
